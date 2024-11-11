@@ -1,0 +1,21 @@
+{
+    "version": "0.1.0",
+    "configurations": [
+        {
+            "type": "debugpy",
+            "request": "launch",
+            "name": "Streamlit Debug",
+            "console": "integratedTerminal",
+            "module": "streamlit",
+            "cwd": "${workspaceFolder}/frontend",
+            "args": [
+                "run",
+                "app.py",
+                "--server.port",
+                "2000"
+            ]
+        }
+        
+    ]
+}
+

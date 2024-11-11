@@ -1,0 +1,11 @@
+streamlit
+openai
+openpyxl
+pandas
+ollama
+pydantic
+
+
+
+
+

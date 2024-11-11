@@ -1,0 +1,15 @@
+# Python
+__pycache__
+app.egg-info
+*.pyc
+.mypy_cache
+.coverage
+htmlcov
+.venv
+.vscode
+.archive
+logs
+*.log
+api.log*
+audio.wav
+read.txt
